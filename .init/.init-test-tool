@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/interactive-trivia-challenge-207920-207929/trivia_backend"
+}
